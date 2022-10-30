@@ -1,0 +1,18 @@
+body {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.btn {
+  border: none;
+  background-color: aqua;
+  padding: 8px;
+  cursor: pointer;
+  color: rgb(178, 158, 158);
+}
+
+.btn:hover {
+  background-color: rgb(26, 189, 189);
+  color: #fff;
+  transition: linear 0.3s;
+}
